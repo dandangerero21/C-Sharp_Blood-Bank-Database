@@ -1,0 +1,157 @@
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\Student\Documents\GereroBSCS1\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\admin\Downloads\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Student\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project 3\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 4\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 5\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\admin\Downloads\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\Student\Downloads\Database Project 6\Database Project 6\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\admin\Downloads\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form2.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1_log.ldf
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Resources\Database1.mdf
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe.config
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form2.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.LoginForm.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.splashscreen.resources
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\ADMIN\Downloads\mydatabaseproject\Database Project\Database Project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
