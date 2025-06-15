@@ -1,0 +1,12 @@
+# Visual Studio trash
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+# Build garbage
+bin/
+obj/
+*.log
